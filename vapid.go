@@ -1,4 +1,4 @@
-package webpush
+package main
 
 import (
 	"crypto/ecdsa"
